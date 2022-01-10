@@ -21,5 +21,5 @@ Using a small screwdriver you can pry the cover open a bit. Little force is need
 Unlike the previous version of the Shelly 1 (switch) this new version doesn't have an SPI flash that can be read in-line.
 
 ### Bluetooth (BLE)
-The Shelly 1 plus has bluetooth (BLE) functionality. It would seem that this is used to configure the Shelly device (set Wifi etc) as well as query it (e.g.,get settings). BLE is used and the communications can be sniffed easoly using a Nordic nRF52840-Dongle. Communicating with the device is very easy and only limited to the functionality that is in place by Alterco's firmware.
+The Shelly 1 plus has Bluetooth (BLE) functionality. It would seem that this is used to configure the Shelly device (set Wifi etc) as well as query it (e.g.,get settings). BLE is used and the communications can be sniffed easily using a Nordic nRF52840-Dongle. Communicating with the device is very easy and only limited to the functionality that is in place by Alterco's firmware.
 
