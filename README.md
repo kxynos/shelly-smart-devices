@@ -20,5 +20,6 @@ Using a small screwdriver you can pry the cover open a bit. Little force is need
 ### SPI Flash
 Unlike the previous version of the Shelly 1 (switch) this new version doesn't have an SPI flash that can be read in-line.
 
-
+### Bluetooth Low-Energy
+Further information about BLE can be found here: [https://github.com/epicRE/shelly-smart-device](https://github.com/epicRE/shelly-smart-device)
 
